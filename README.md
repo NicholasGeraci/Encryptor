@@ -5,9 +5,6 @@
 3. Press the encrypt or decrypt button.
 4. When 'Done.' is displayed, the file is encrypted/decrypted.
 
-**Notes**:
-A backup directory is provided for convenience. It is ***strongly*** advised you store your original file in it before you encrypt your file.
-
 **Warning**:
-*Don't encrypt/decrypt a file twice!* Use a backup file if this mistake is made.
-
+1. *Don't risk data loss!* It is ***strongly*** advised that you copy your original file to a backup directory before you encrypt it. 
+2. *Don't encrypt/decrypt a file twice!* Use a backup file if this mistake is made.
